@@ -1,0 +1,1 @@
+Submission for ECE 461P. Nick Vadlamudi, Anish Parmar, Harsha Jandhyala, Zachary Yeo. All Data except Massey Ordinal Rankings are present. The Ordinal Rankings can be found in the competition site at: https://www.kaggle.com/competitions/march-machine-learning-mania-2024
